@@ -1,0 +1,14 @@
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\bin\Debug\net8.0\FunctionAndOperatorOverloading.exe
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\bin\Debug\net8.0\FunctionAndOperatorOverloading.deps.json
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\bin\Debug\net8.0\FunctionAndOperatorOverloading.runtimeconfig.json
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\bin\Debug\net8.0\FunctionAndOperatorOverloading.dll
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\bin\Debug\net8.0\FunctionAndOperatorOverloading.pdb
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\obj\Debug\net8.0\FunctionAndOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\obj\Debug\net8.0\FunctionAndOperatorOverloading.AssemblyInfoInputs.cache
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\obj\Debug\net8.0\FunctionAndOperatorOverloading.AssemblyInfo.cs
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\obj\Debug\net8.0\FunctionAndOperatorOverloading.csproj.CoreCompileInputs.cache
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\obj\Debug\net8.0\FunctionAndOperatorOverloading.dll
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\obj\Debug\net8.0\refint\FunctionAndOperatorOverloading.dll
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\obj\Debug\net8.0\FunctionAndOperatorOverloading.pdb
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\obj\Debug\net8.0\FunctionAndOperatorOverloading.genruntimeconfig.cache
+D:\.Net\FunctionAndOperatorOverloading\FunctionAndOperatorOverloading\obj\Debug\net8.0\ref\FunctionAndOperatorOverloading.dll
